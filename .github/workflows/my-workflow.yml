@@ -14,5 +14,5 @@ jobs:
         with:
 #           firstGreeting: "tick"
 #           secondGreeting: "trick"
-          thirdGreeting: "track"
+#           thirdGreeting: "track"
           
