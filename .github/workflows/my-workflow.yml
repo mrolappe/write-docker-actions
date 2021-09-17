@@ -11,3 +11,8 @@ jobs:
       
       - name: hello-action
         uses: ./.github/actions/hello-world
+#         with:
+#           firstGreeting: "tick"
+#           secondGreeting: "trick"
+#           thirdGreeting: "track"
+          
